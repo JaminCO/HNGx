@@ -14,7 +14,7 @@ def home():
         "current_day": current_day,
         "utc_time": datetime.datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "track": track,
-        "github_file_url": "https://github.com/JaminCO/HNGx/blob/main/filen_name.ext",
+        "github_file_url": "https://github.com/JaminCO/HNGx/blob/main/Stage-1/app.py",
         "github_repo_url": "https://github.com/JaminCO/HNGx",
         "status_code": 200
     }
