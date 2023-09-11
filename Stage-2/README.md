@@ -22,7 +22,7 @@ Before you begin, ensure you have the following installed:
 2. Change to the project directory:
 
    ```bash
-   cd Hngx
+   cd Hngx/Stage-2
    ```
 
 3. Create a virtual environment (optional but recommended):
