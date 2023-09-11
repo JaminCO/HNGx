@@ -1,5 +1,3 @@
-Thank you for providing the source code for your Flask project. Now, let's create the README.md file with setup, run, and usage instructions. Here's the README.md file content:
-
 ```markdown
 # HNGx Stage 2 Backend Task
 
