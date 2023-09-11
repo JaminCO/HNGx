@@ -138,10 +138,8 @@ By default, the API will be accessible at http://localhost:5000.
     "success": true
   }
   ```
-
 Please note that the `{user_id}` in the endpoint should be replaced with the actual user ID you want to interact with.
 
 ## Closing Remarks
 
 This Flask API provides basic CRUD functionality for managing user records in a SQLite database. You can use it as a starting point for more complex projects or as a learning resource for Flask and RESTful API development.
-```
